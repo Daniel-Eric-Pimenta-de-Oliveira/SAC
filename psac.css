@@ -17,11 +17,11 @@ h1, h2, h3, h4, h5, h6, p{
 
 body{
     background-color: rgb(85, 85, 85);
-    background-image: url("img/Cidade De Fantasia.jpeg")    /*Isso aqui é só pra testar*/
+    background-image: url("");
 }
 
 
-header{
+header{     /*Tamanho deve ser equivalente a uma página inteira --> Variação de tela de dispositivo p/ dispositivo --> Breaking Points p/ cada um*/
     margin: 0% 0% 2.5% 0%;
     background-color:rgb(25, 118, 210, 0.75);
     border: 0.375rem solid rgb(13, 71, 161, 0.75);
@@ -39,16 +39,7 @@ button{
     background-color:rgb(25, 118, 210, 0.75);
     border: 0.375rem solid rgb(13, 71, 161, 0.75);
     font-size: 1.25rem;
-}/*
-#filtro{
-    background-image:;
 }
-#voltar{
-    background-image:;
-}
-#mapa{
-    background-image:;
-}*/
 
 
 .series{    /*Refere-se às séries das turmas (9°, 1° e 2°)*/
